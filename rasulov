@@ -4,3 +4,4 @@ $ git remote -v
 # Verifies the new remote URL
 > origin https://github.com/Avazbek3/avazbek3_gitquest.git (push)
 > origin https://github.com/Avazbek3/avazbek3_gitquest.git (fetch)
+git push rasulov rasulov:main

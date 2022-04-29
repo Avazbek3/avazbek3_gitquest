@@ -1,6 +1,1 @@
-$ git remote add origin https://github.com/Avazbek3/yourstackupname_gitquest.git
-# Sets the new remote
-$ git remote -v
-# Verifies the new remote URL
-> origin https://github.com/Avazbek3/yourstackupname_gitquest.git (push)
-> origin https://github.com/Avazbek3/yourstackupname_gitquest.git (fetch)
+Hello, world! My name is Avazbek3. I am a Stackie!
